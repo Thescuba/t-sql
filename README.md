@@ -3,7 +3,6 @@ The goal of these notebooks are to assist others in learning and mastering data 
 [Microsoft - DAT201x](https://www.edx.org/course/querying-data-with-transact-sql-2) found on the [edx](https://www.edx.org/) platform. Let's get started!
  
 Table of Contents
-=================
   * [Installation](#notebooks-installation)
     * [Install Git](#install-git)
   * [Getting Started](#getting-started)
@@ -21,3 +20,7 @@ The VM(Virtual Machine) is a Linux server system that runs on top of your own co
 1. Clone the repository to a desired location (E.g. `git clone https://github.com/stang84/t-sql`)
 2. Open up jupyter labs or jupyter notebook either though anaconda navigator or terminal. 
 3. Go to the repository directory
+=======
+# t-sql
+# 
+#
