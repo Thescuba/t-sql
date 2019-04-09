@@ -4,10 +4,12 @@ The goal of these notebooks are to assist others in learning and mastering data 
  
 Table of Contents
 =================
+
   * [Installation](#notebooks-installation)
     * [Install Git](#install-git)
   * [Getting Started](#getting-started)
     * [Run Notebooks](#run-notebooks)
+  * [Part 1: Getting Started with T-SQL](Getting-Started-with-T-SQL.ipynb)
 # Notebooks Installation
 This repository contains Jupyter Notebooks to follow along with the lectures. However, there are several packages and applications that need to be installed. It is recommended to install anaconda at (https://www.anaconda.com/download/). Alternatively you may just want to go with just a python 3 install and use pip to install numpy, matplotlib, pandas alongwith jupyterlab or jupyter notebook.
 
@@ -21,3 +23,7 @@ The VM(Virtual Machine) is a Linux server system that runs on top of your own co
 1. Clone the repository to a desired location (E.g. `git clone https://github.com/stang84/t-sql`)
 2. Open up jupyter labs or jupyter notebook either though anaconda navigator or terminal. 
 3. Go to the repository directory
+=======
+# t-sql
+# 
+#

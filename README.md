@@ -3,10 +3,13 @@ The goal of these notebooks are to assist others in learning and mastering data 
 [Microsoft - DAT201x](https://www.edx.org/course/querying-data-with-transact-sql-2) found on the [edx](https://www.edx.org/) platform. Let's get started!
  
 Table of Contents
+=================
+
   * [Installation](#notebooks-installation)
     * [Install Git](#install-git)
   * [Getting Started](#getting-started)
     * [Run Notebooks](#run-notebooks)
+  * [Part 1: Getting Started with T-SQL](Getting-Started-with-T-SQL.ipynb)
 # Notebooks Installation
 This repository contains Jupyter Notebooks to follow along with the lectures. However, there are several packages and applications that need to be installed. It is recommended to install anaconda at (https://www.anaconda.com/download/). Alternatively you may just want to go with just a python 3 install and use pip to install numpy, matplotlib, pandas alongwith jupyterlab or jupyter notebook.
 
