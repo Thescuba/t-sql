@@ -10,6 +10,10 @@ Table of Contents
   * [Getting Started](#getting-started)
     * [Run Notebooks](#run-notebooks)
   * [Part 1: Getting Started with T-SQL](Getting-Started-with-T-SQL.ipynb)
+    * 1.1 What is SQL
+    * 1.2 Relation Databases
+    * 1.3 Schemas and Object Names
+
 # Notebooks Installation
 This repository contains Jupyter Notebooks to follow along with the lectures. However, there are several packages and applications that need to be installed. It is recommended to install anaconda at (https://www.anaconda.com/download/). Alternatively you may just want to go with just a python 3 install and use pip to install numpy, matplotlib, pandas alongwith jupyterlab or jupyter notebook.
 
