@@ -10,9 +10,21 @@ Table of Contents
   * [Getting Started](#getting-started)
     * [Run Notebooks](#run-notebooks)
   * [Part 1: Getting Started with T-SQL](Getting-Started-with-T-SQL.ipynb)
-    * 1.1 What is SQL
-    * 1.2 Relation Databases
-    * 1.3 Schemas and Object Names
+    * 1.1 Intro to T-SQL
+     * 1.1.1 What is SQL
+     * 1.1.2 Relational Databases
+     * 1.1.3 Schemas and Object Names
+     * 1.1.4 Key Points
+    * 1.2 The Select Statement 
+     * 1.2.1 What is the Select Statement
+     * 1.2.2 Basic Select Query Example
+     * 1.2.3 Key Points
+    * 1.3 Working with Data Types
+     * 1.3.1 Transact-SQL Data Types
+     * 1.3.2 Conversions
+    * 1.4 Working with NULLs
+     * 1.4.1 NULL Values
+     * 1.4.2 NULL Functions
 
 # Notebooks Installation
 This repository contains Jupyter Notebooks to follow along with the lectures. However, there are several packages and applications that need to be installed. It is recommended to install anaconda at (https://www.anaconda.com/download/). Alternatively you may just want to go with just a python 3 install and use pip to install numpy, matplotlib, pandas alongwith jupyterlab or jupyter notebook.
