@@ -40,6 +40,4 @@ The VM(Virtual Machine) is a Linux server system that runs on top of your own co
 2. Open up jupyter labs or jupyter notebook either though anaconda navigator or terminal. 
 3. Go to the repository directory
 =======
-# t-sql
-# 
-#
+
