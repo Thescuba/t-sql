@@ -25,8 +25,8 @@ Table of Contents
     * 1.4 Working with NULLs
      * 1.4.1 NULL Values
      * 1.4.2 NULL Functions
-   * [Part 2: Querying Tables with T-SQL](Querying-Tables-with-T-SQL.ipynb)
-   * [Part 3: Joins](Querying-Tables-with-T-SQL.ipynb)
+   * [Part 2: Querying Tables with T-SQL](Querying-Tables-with-Select.ipynb)
+   * [Part 3: Joins](Joins.ipynb)
 
 # Notebooks Installation
 This repository contains Jupyter Notebooks to follow along with the lectures. However, there are several packages and applications that need to be installed. It is recommended to install anaconda at (https://www.anaconda.com/download/). Alternatively you may just want to go with just a python 3 install and use pip to install numpy, matplotlib, pandas alongwith jupyterlab or jupyter notebook.
