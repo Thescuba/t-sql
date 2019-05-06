@@ -11,20 +11,9 @@ Table of Contents
     * [Run Notebooks](#run-notebooks)
   * [Part 1: Getting Started with T-SQL](Getting-Started-with-T-SQL.ipynb)
     * 1.1 Intro to T-SQL
-     * 1.1.1 What is SQL
-     * 1.1.2 Relational Databases
-     * 1.1.3 Schemas and Object Names
-     * 1.1.4 Key Points
     * 1.2 The Select Statement 
-     * 1.2.1 What is the Select Statement
-     * 1.2.2 Basic Select Query Example
-     * 1.2.3 Key Points
     * 1.3 Working with Data Types
-     * 1.3.1 Transact-SQL Data Types
-     * 1.3.2 Conversions
     * 1.4 Working with NULLs
-     * 1.4.1 NULL Values
-     * 1.4.2 NULL Functions
    * [Part 2: Querying Tables with T-SQL](Querying-Tables-with-Select.ipynb)
    * [Part 3: Joins](Joins.ipynb)
 
